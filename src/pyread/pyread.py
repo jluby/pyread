@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 """ Read txt file, saving bookmarks at paragraph breaks. """
 
-# TODO:
-# test and add to github
-
 import argparse
 import os
 import re
